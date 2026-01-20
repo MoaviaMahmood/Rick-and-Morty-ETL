@@ -22,6 +22,37 @@ This project is suitable for:
 
 ---
 
+## 📊 Charts & Visualizations
+
+The project includes basic data visualizations to better understand the extracted data.
+
+### Character Status Distribution
+A bar chart showing the number of characters by status (Alive, Dead, Unknown).
+<img width="571" height="504" alt="Image" src="https://github.com/user-attachments/assets/4eac092d-2b1e-4011-b769-a6ca4210186b" />
+
+### Gender Distribution
+A bar chart representing the gender distribution of characters.
+<img width="571" height="517" alt="Image" src="https://github.com/user-attachments/assets/250c7ee9-b313-4efc-812e-539bb6bc53a8" />
+
+### Character Species Distribution
+A bar chart representing the species distribution of characters.
+<img width="571" height="593" alt="Image" src="https://github.com/user-attachments/assets/48ac269b-c6fc-4bd6-ad46-10b0241ebdc9" />
+
+### Gender by Species
+A bar chart showing what genders a specie have.
+<img width="850" height="763" alt="Image" src="https://github.com/user-attachments/assets/79913732-64a5-4081-ab4a-92a304cd3e0b" />
+
+### Status by Species
+A bar chart showing the number of species by status (Alive, Dead, Unknown).
+<img width="850" height="686" alt="Image" src="https://github.com/user-attachments/assets/0d35a180-41f9-4f70-944b-4341c97049dd" />
+
+These visualizations help in:
+- Understanding data distribution
+- Identifying patterns in the dataset
+- Improving data storytelling for analysis and reporting
+
+---
+
 ## Technologies Used
 
 - Python 3  
