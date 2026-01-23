@@ -6,6 +6,8 @@ This project demonstrates how to extract, process, and store data from the **Ric
 
 ## Project Overview
 
+<img width="1107" height="865" alt="Image" src="https://github.com/user-attachments/assets/dc630008-5aba-4113-b9ed-755097327f04" />
+
 The notebook fetches data from multiple endpoints of the Rick and Morty API:
 
 - **Characters**
