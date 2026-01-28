@@ -21,6 +21,9 @@ The entire workflow runs inside Docker containers, ensuring **reproducibility** 
 
 ## Architecture Overview
 
+<img width="632" height="845" alt="Screenshot 2026-01-28 174227" src="https://github.com/user-attachments/assets/dee90077-708a-43ab-b547-c947608893ff" />
+
+
 ### Data Flow
 
                         ┌──────────────────────────────┐
